@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77edf4da-e666-4b50-ae25-dd937a4b3590" name="Changes" comment="" />
+    <list default="true" id="77edf4da-e666-4b50-ae25-dd937a4b3590" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Calc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Calc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Oper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Oper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/SCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/SCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/SPCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/SPCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/ExprWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/ExprWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XKhE7o5Ty040oaOZTxHP2ugfAA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,6 +46,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -31,7 +58,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698383565902</updated>
+      <workItem from="1698383567735" duration="5315000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

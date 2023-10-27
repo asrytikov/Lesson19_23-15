@@ -1,2 +1,7 @@
-package p1;public class SCalc {
+package p1;
+
+public interface SCalc {
+
+    void print(String str);
+
 }
